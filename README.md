@@ -55,8 +55,8 @@ pip3 install -r requirements.txt
 <details>
   <summary>Archive</summary>
   <ol>
-    <li><a href="#sum_of_squares">Sum of Squares</a></li>
-    <li><a href="#hooks">Hooks</a></li>
+    <li><a href="#sum_of_squares">Sum of Squares (2014-01)</a></li>
+    <li><a href="#hooks">Hooks (2014-02)</a></li>
   </ol>
 </details>
 
