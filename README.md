@@ -31,7 +31,7 @@ This series will document my journey to becoming a quantitative researcher. In t
 
 # Built With [![Python][Python.py]][Python-url]
 
-I use python to solve each and every problems because of these reasons:
+I use python to solve each and every problem because of those reasons:
 * **For everyone**: Python is a popular programming language which is accessible to beginers and experienced programmers. 
 
 * **Rich ecosystem of libraries**: Python has a various libraries and packages specifically designed for quantitative analysis and computing such as: NumPy, SciPy, z3 ...
