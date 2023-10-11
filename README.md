@@ -17,7 +17,7 @@ This series will document my journey to becoming a quantitative researcher. In t
   <p align="center">
     A journey to becoming a quantitative researcher.
     <br />
-    <a href="https://medium.com/p/f0f481e686e/edit"><strong>Explore My Blog »</strong></a>
+    <a href="https://medium.com/@quachmaiboi"><strong>Explore My Blog »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
@@ -98,4 +98,4 @@ Most codes are inspired from this [github](https://github.com/gowen100/Jane-Stre
 [linkedin-url]: https://www.linkedin.com/in/boi-mai-quach-0196b6109/
 
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-[medium-url]: https://medium.com/p/f0f481e686e/edit
+[medium-url]: https://medium.com/@quachmaiboi
