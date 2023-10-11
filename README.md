@@ -3,7 +3,8 @@ Quantitative Problems
 
 This series will document my journey to becoming a quantitative researcher. In this part, I will in turn solve each and every [Jane Street's Puzzles](https://www.janestreet.com/puzzles/).
 
-
+[![Medium][medium-shield]][medium-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -49,6 +50,39 @@ We run code in [![Jupyter][jupyterlab.ipynb]][jupyterlab-url] which is a web-bas
 pip3 install -r requirements.txt 
 ``` 
 
+# Puzzle list
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Archive</summary>
+  <ol>
+    <li><a href="#sum_of_squares">Sum of Squares</a></li>
+    <li><a href="#hooks">Hooks</a></li>
+  </ol>
+</details>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Most codes are inspired from this [github](https://github.com/gowen100/Jane-Street-Solutions). Thank you so much for giving me a chance to practice quantitative problems.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -59,3 +93,9 @@ pip3 install -r requirements.txt
 
 [jupyterlab.ipynb]: https://shields.io/badge/JupyterLab-Try%20GraphScope%20Now!-F37626?logo=jupyter
 [jupyterlab-url]: https://justinbois.github.io/bootcamp/2020_fsri/lessons/l01_welcome.html
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/boi-mai-quach-0196b6109/
+
+[medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[medium-url]: https://medium.com/p/f0f481e686e/edit
