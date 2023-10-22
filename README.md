@@ -20,11 +20,6 @@ This series will document my journey to becoming a quantitative researcher. In t
     <a href="https://medium.com/@quachmaiboi"><strong>Explore My Blog »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
-    <!-- ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    · -->
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
 </div>
 <p align="right"></p>
