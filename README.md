@@ -57,6 +57,8 @@ pip3 install -r requirements.txt
     </a></li>
     <li><a href="#number_cross">Number Cross 2 (2015-08)
     </a></li>
+    <li><a href="#hex-agony">Hexagony (2015-10)
+    </a></li>
   </ol>
 </details>
 
