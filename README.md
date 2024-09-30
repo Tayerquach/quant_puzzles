@@ -1,7 +1,7 @@
-Quantitative Problems
+Welcome to My Puzzle-Solving Series
 ========================
 
-This series will document my journey to becoming a quantitative researcher. In this part, I will in turn solve each and every [Jane Street's Puzzles](https://www.janestreet.com/puzzles/).
+In this series, I will in turn solve each and every [Jane Street's Puzzles](https://www.janestreet.com/puzzles/), using solvers. Through each post, I break down the problem-solving process step by step, demonstrating how mathematical logic and computational tools can be used to find efficient solutions. Whether you're new to solving puzzles or an experienced solver, this series offers insights and techniques to enhance your problem-solving skills.
 
 [![Medium][medium-shield]][medium-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -12,10 +12,10 @@ This series will document my journey to becoming a quantitative researcher. In t
     <img src="https://icon-library.com/images/dice-icon-png/dice-icon-png-0.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Quantitative Problems</h3>
+  <h3 align="center">Solving Puzzle</h3>
 
   <p align="center">
-    A journey to becoming a quantitative researcher.
+    Cracking Complex Puzzles with Mathematics and Coding.
     <br />
     <a href="https://medium.com/@quachmaiboi"><strong>Explore My Blog »</strong></a>
     <br />
